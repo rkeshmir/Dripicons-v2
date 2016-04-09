@@ -1,0 +1,11 @@
+{
+  "name": "Dripicons",
+  "description": "A completely free vector line-icon font.",
+  "author": "http://amitjakhu.com/",
+  "license": "MIT",
+  "homepage": "http://demo.amitjakhu.com/dripicons/",
+  "main": [
+    "style.css",
+    "webfont.css"
+  ]
+}
